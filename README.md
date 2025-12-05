@@ -1,0 +1,22 @@
+<table>
+    <td>
+      <table>
+        <tr><th>Platform</th><th> Address / Handle</th></tr>
+        <tr><td><b>SimpleX</b></td><td><code>https://smp9.s..x.im/a#3T5QtO4fr-blwlr4fVs3-ZsoVYaDu5l_WS-1pKESyqk</code></td></tr>
+        <tr><td><b>Session</b></td><td><code>05c99d559ab1fb32bd1515dd0880df6e1c1da6d1c0ed9794dbf7fb7fa286e56b3c</code></td></tr>
+        <tr><td><b>qTox</b></td><td><code>C11E3E7765925366090940ED5C5C30BA15961FF4288FF35E5C2C8CA633E98E33C231C0A552E8</code></td></tr>
+        <tr><td><b>XMPP</b></td><td><code>kernelstub@xmpp.is</code></td></tr>
+        <tr><td><b>Matrix</b></td><td><code>@kernelstub:matrix.org</code></td></tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr><th>Platform</th><th>Handle</th></tr>
+        <tr><td><b>Keybase</b></td><td><code>@kernelstub</code></td></tr>
+        <tr><td><b>Wire</b></td><td><code>@kernelstub</code></td></tr>
+        <tr><td><b>Discord</b></td><td><code>@kernelstub</code></td></tr>
+        <tr><td><b>Telegram</b></td><td><code>@kernelstub</code></td></tr>
+        <tr><td><b>GitHub</b></td><td><code>@kernelstub</code></td></tr>
+      </table>
+    </td>
+</table>
