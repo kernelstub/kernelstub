@@ -2,9 +2,9 @@
     <td>
       <table>
         <tr><th>Platform</th><th> Address / Handle</th></tr>
-        <tr><td><b>SimpleX</b></td><td><code>https://smp9.s..x.im/a#3T5QtO4fr-blwlr4fVs3-ZsoVYaDu5l_WS-1pKESyqk</code></td></tr>
-        <tr><td><b>Session</b></td><td><code>05c99d559ab1fb32bd1515dd0880df6e1c1da6d1c0ed9794dbf7fb7fa286e56b3c</code></td></tr>
-        <tr><td><b>qTox</b></td><td><code>C11E3E7765925366090940ED5C5C30BA15961FF4288FF35E5C2C8CA633E98E33C231C0A552E8</code></td></tr>
+        <tr><td><b>SimpleX</b></td><td><code>https://smp9.s..x.im/a#08IZNYus3FO4n9qyQplz-4dVNkLp0thsNzpqX_tOJAw</code></td></tr>
+        <tr><td><b>Session</b></td><td><code>05e7538c7310a77cd7add813707768acc4d439b63e9b9e1eabae99357193154075</code></td></tr>
+        <tr><td><b>qTox</b></td><td><code>B0B87E44C6004114AB223EEA17D78EAA9A086DEA4CAAD84FB3CDCA8E0968DB29C3FF33027DA5</code></td></tr>
         <tr><td><b>XMPP</b></td><td><code>kernelstub@xmpp.is</code></td></tr>
         <tr><td><b>Matrix</b></td><td><code>@kernelstub:matrix.org</code></td></tr>
       </table>
