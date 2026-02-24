@@ -1,17 +1,24 @@
-<table>
-    <td>
-      <table>
-        <tr><th>Platform</th><th> Address / Handle</th></tr>
-        <tr><td><b>SimpleX</b></td><td><code>https://smp9.simplex.im/a#08IZNYus3FO4n9qyQplz-4dVNkLp0thsNzpqX_tOJAw</code></td></tr>
-        <tr><td><b>Session</b></td><td><code>05e7538c7310a77cd7add813707768acc4d439b63e9b9e1eabae99357193154075</code></td></tr>
-        <tr><td><b>qTox</b></td><td><code>B0B87E44C6004114AB223EEA17D78EAA9A086DEA4CAAD84FB3CDCA8E0968DB29C3FF33027DA5</code></td></tr>
-        <tr><td><b>XMPP</b></td><td><code>kernelstub@xmpp.is</code></td></tr>
-        <tr><td><b>Matrix</b></td><td><code>@kernelstub:matrix.org</code></td></tr>
-        <tr><td><b>Keybase</b></td><td><code>@kernelstub</code></td></tr>
-        <tr><td><b>Wire</b></td><td><code>@kernelstub</code></td></tr>
-        <tr><td><b>Discord</b></td><td><code>@kernelstub</code></td></tr>
-        <tr><td><b>Telegram</b></td><td><code>@kernelstub</code></td></tr>
-        <tr><td><b>GitHub</b></td><td><code>@kernelstub</code></td></tr>
-      </table>
-    </td>
-</table>
+<div align="center">
+    <table>
+        <td>
+          <table>
+            <tr><th>Platform</th><th> Address / Handle</th></tr>
+            <tr><td><b>SimpleX</b></td><td><code>https://smp9.simplex.im/a#08IZNYus3FO4n9qyQplz-4dVNkLp0thsNzpqX_tOJAw</code></td></tr>
+            <tr><td><b>Session</b></td><td><code>05e7538c7310a77cd7add813707768acc4d439b63e9b9e1eabae99357193154075</code></td></tr>
+            <tr><td><b>qTox</b></td><td><code>B0B87E44C6004114AB223EEA17D78EAA9A086DEA4CAAD84FB3CDCA8E0968DB29C3FF33027DA5</code></td></tr>
+            <tr><td><b>XMPP</b></td><td><code>kernelstub@xmpp.is</code></td></tr>
+            <tr><td><b>Matrix</b></td><td><code>@kernelstub:matrix.org</code></td></tr>
+            <tr><td><b>Keybase</b></td><td><code>@kernelstub</code></td></tr>
+            <tr><td><b>Wire</b></td><td><code>@kernelstub</code></td></tr>
+            <tr><td><b>Discord</b></td><td><code>@kernelstub</code></td></tr>
+            <tr><td><b>Telegram</b></td><td><code>@kernelstub</code></td></tr>
+            <tr><td><b>GitHub</b></td><td><code>@kernelstub</code></td></tr>
+          </table>
+        </td>
+    </table>
+
+    
+<img width="1500" height="176" alt="FunnyBanner" src="https://github.com/user-attachments/assets/0ba9184a-2381-4375-baa3-725e8d4c016f" />
+
+
+</div>
