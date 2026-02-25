@@ -18,7 +18,7 @@
     </table>
 
     
-<img width="1500" height="176" alt="FunnyBanner" src="https://github.com/user-attachments/assets/0ba9184a-2381-4375-baa3-725e8d4c016f" />
+<!-- <img width="1500" height="176" alt="FunnyBanner" src="https://github.com/user-attachments/assets/0ba9184a-2381-4375-baa3-725e8d4c016f" /> -->
 
 
 </div>
