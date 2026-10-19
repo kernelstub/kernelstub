@@ -10,7 +10,6 @@
       <tr><td><b>Keybase</b></td><td><code>@kernelstub</code></td></tr>
       <tr><td><b>Wire</b></td><td><code>@kernelstub</code></td></tr>
       <tr><td><b>Discord</b></td><td><code>@kernelstub</code></td></tr>
-      <tr><td><b>Telegram</b></td><td><code>@kernelstub</code></td></tr>
       <tr><td><b>GitHub</b></td><td><code>@kernelstub</code></td></tr>
     </table>
   </td>
